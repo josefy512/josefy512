@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Jose 👋
 
-<!--
-**josefy512/josefy512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en **Desarrollo Web** y **Análisis/Gestión de Datos (SQL)**. Apasionado por crear aplicaciones funcionales y transformar datos crudos en información útil para la toma de decisiones.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Bases de Datos & SQL:** SQL (Consultas avanzadas, agregaciones, JOINs), PostgreSQL / MySQL
+* **Desarrollo Web:** HTML5, CSS3, JavaScript (Lógica Backend/Frontend)
+* **Herramientas:** Git, GitHub
+
+---
+
+### 🚀 Proyectos Destacados
+
+> *Próximamente: Agregando proyectos de integración Web + SQL y análisis de datos reales.*
+
+1. **[Nombre del Proyecto 1]** - *(En desarrollo)*
+   * **Descripción:** Aplicación web integrada con base de datos para gestión de inventarios/usuarios.
+   * **Tech Stack:** HTML/CSS, SQL, PostgreSQL.
+   * **Link:** `[Próximamente]`
+
+---
+
+### 📬 Contacto & Redes
+
+* **LinkedIn:** `[Tu enlace de LinkedIn aquí]`
+* **Email:** `[Tu correo de contacto]`
