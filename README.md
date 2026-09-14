@@ -20,7 +20,7 @@ Desarrollador enfocado Junior en formación. Mi foco principal es la construcci�
 
 > *En lo que estoy trabajando:*
 
-1. Actualmente construyo un proyecto a gran escala en React integrado con consultas y gestión de datos en PostgreSQL (SQL).
+1. Actualmente construyo un proyecto a gran escala en React integrado con consultas y gestión de datos en PostgreSQL.
 
 ---
 
