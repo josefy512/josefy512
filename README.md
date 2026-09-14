@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building-orange?style=for-the-badge" />
 </p>
 
-Desarrollador enfocado en **Desarrollo Web** y **Análisis/Gestión de Datos (SQL)**. Apasionado por crear aplicaciones funcionales y transformar datos crudos en información útil para la toma de decisiones.
+Desarrollador enfocado Junior en formación. Mi foco principal es la construcción de aplicaciones web interactivas usando React y la gestión de bases de datos relacionales(usando PostgreSQL).
 
 ---
 
@@ -18,11 +18,9 @@ Desarrollador enfocado en **Desarrollo Web** y **Análisis/Gestión de Datos (SQ
 
 ### 🚀 Proyectos Destacados
 
-> *Próximamente: Agregando proyectos de integración Web + SQL y análisis de datos reales.*
+> *En lo que estoy trabajando:*
 
-1. **[Nombre del Proyecto 1]** - *(En desarrollo)*
-   * **Descripción:** Aplicación web integrada con base de datos para gestión de inventarios/usuarios.
-   * **Tech Stack:** HTML/CSS, SQL, PostgreSQL.
+1. Actualmente construyo un proyecto a gran escala en React integrado con consultas y gestión de datos en PostgreSQL (SQL).
 
 ---
 
