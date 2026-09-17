@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building-orange?style=for-the-badge" />
 </p>
 
-Desarrollador enfocado Junior en formaci처n. Mi foco principal es la construcci처n de aplicaciones web interactivas usando React y la gesti처n de bases de datos relacionales(usando PostgreSQL).
+Desarrollador Junior en formaci처n. Mi foco principal es la construcci처n de aplicaciones web interactivas usando TypeScript y la gesti처n de bases de datos relacionales(usando PostgreSQL).
 
 ---
 
@@ -20,7 +20,7 @@ Desarrollador enfocado Junior en formaci처n. Mi foco principal es la construcci�
 
 > *En lo que estoy trabajando:*
 
-1. Actualmente construyo un proyecto a gran escala en React integrado con consultas y gesti처n de datos en PostgreSQL.
+1. Actualmente construyo un proyecto a gran escala en TypeScript integrado con consultas y gesti처n de datos en PostgreSQL.
 
 ---
 
