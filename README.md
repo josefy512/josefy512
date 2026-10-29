@@ -26,6 +26,5 @@ Desarrollador Junior en formación. Mi foco principal es la construcción de apl
 
 ### 📬 Contacto
 
-* **LinkedIn:** ``
 * **Email:** josefy512@gmail.com
 * **Número de teléfono:** 953175738 
