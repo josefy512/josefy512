@@ -18,7 +18,7 @@ Desarrollador Junior en formación. Mi foco principal es la construcción de apl
 
 ### 🚀 Proyectos Destacados
 
-> *En lo que estoy trabajando:*
+> *Estoy trabajando en...:*
 
 1. Actualmente construyo un proyecto a gran escala en TypeScript integrado con consultas y gestión de datos en PostgreSQL.
 
@@ -26,5 +26,6 @@ Desarrollador Junior en formación. Mi foco principal es la construcción de apl
 
 ### 📬 Contacto
 
-* **LinkedIn:** `[Tu enlace de LinkedIn]`
-* **Email:** `[Tu correo]`
+* **LinkedIn:** ``
+* **Email:** josefy512@gmail.com
+* **Número de teléfono:** 953175738 
